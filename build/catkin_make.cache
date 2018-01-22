@@ -1,0 +1,2 @@
+ros_tutorials_topic:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/jetsonbot/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/jetsonbot/install -G Unix Makefiles

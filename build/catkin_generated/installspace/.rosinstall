@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/jetsonbot/install/setup.sh
